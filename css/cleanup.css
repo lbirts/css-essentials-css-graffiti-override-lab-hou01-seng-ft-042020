@@ -6,3 +6,9 @@
   left: 100px;
   top: 200px;
 }
+
+#wall #tag-3 {
+  width: 700px;
+  position: absolute;
+  height: 500px;
+}
