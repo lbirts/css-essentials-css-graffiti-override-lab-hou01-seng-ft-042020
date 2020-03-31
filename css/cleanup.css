@@ -1,1 +1,8 @@
 /* write your override styles here */
+#wall .tag-1 {
+  width: 700px;
+  position: absolute;
+  height: 500px;
+  left: 100px;
+  top: 200px;
+}
